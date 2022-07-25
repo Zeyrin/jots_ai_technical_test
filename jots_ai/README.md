@@ -1,16 +1,13 @@
 # jots_ai
 
-A new Flutter project.
+Technical Tests For Jots.ai.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Here you will find the app i built for the technical test,
 
-A few resources to get you started if this is your first Flutter project:
+If there are any questions or comments please let me know :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+maceo.bonalair@epitech.eu
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks for your attention !
