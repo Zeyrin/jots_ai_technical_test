@@ -12,4 +12,4 @@ maceo.bonalair@epitech.eu
 
 Thanks for your attention !
 
-![Alt text](/assets/Login.png?raw=true "Optional Title")
+![Alt text](assets/Login.png?raw=true "Optional Title")
