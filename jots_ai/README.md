@@ -11,3 +11,5 @@ If there are any questions or comments please let me know :
 maceo.bonalair@epitech.eu
 
 Thanks for your attention !
+
+![Alt text](/assets/Login.png?raw=true "Optional Title")
